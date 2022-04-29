@@ -1,0 +1,14 @@
+{
+    "files": {
+        "Readme.md": "ad2c96bd25bffd6859fdce2ffb853214d8158b464b573eabb1b0b130e5fd3ab8",
+        "index.js": "7a5ca1a5d14134c89a53af54cc813514a9f0257bdce93a28ce72f133165167d7",
+        "module.json": "8b99e0507f5282f413842594da1745eb1ece926fe3d187680e83270e28507bf0",
+        "settings_migrator.js": "d490a54405dd04741ad18a26176e0c5a3fc520c9ac235dd326311a7a47f4db7a",
+        "settings_structure.js": "d11d237ece354c048ee05f102f18072e49688f38dc3d4c9bb03fcf739b84ae05"
+    },
+    "defs": {
+        "S_ABNORMALITY_BEGIN": [3,5],
+        "S_ABNORMALITY_END": 1,
+        "S_ABNORMALITY_REFRESH": 1
+    }
+}
