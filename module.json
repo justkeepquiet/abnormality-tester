@@ -11,5 +11,5 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/jk-q/abnormality-tester/master/"]
+    "servers": ["https://raw.githubusercontent.com/justkeepquiet/abnormality-tester/master/"]
 }
